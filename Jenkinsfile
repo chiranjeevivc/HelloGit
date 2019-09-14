@@ -19,5 +19,6 @@ pipeline {
   }
   environment {
     Test = 'Test'
+    Hello = 'Hello'
   }
 }
